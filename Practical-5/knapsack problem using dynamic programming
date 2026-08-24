@@ -54,4 +54,9 @@ Values = 60 100 120
 Capacity = 50
 
 Output:
-Maximum value = 220
+Maximum value = 220 Total Weight = 20 + 30
+             = 50
+Total Value  = 100 + 120
+             = 220
+
+So the program prints:     Maximum value = 220
