@@ -45,3 +45,13 @@ int main()
 
     return 0;
 }
+
+Output
+Example 1: Element Found
+Enter the element to search: 40
+Element found at index 3
+
+
+Example 2: Element Not Found
+Enter the element to search: 90
+Element not found
